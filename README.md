@@ -13,21 +13,27 @@ As a result, SAMURUN is the outcome of developing a game from scratch, embracing
 
 **_"A brave young man, in a quest to earn the title of Samurai, has to finish one final challenge. The skybridge SAMURUN, a bridge only a few have seen with their own eyes, and fewer returned to share the story. A bridge that no one truly knows its secrets, stands in front of him. He must run, avoid the obstacles and reach the end of the bridge before the sun goes down, as the legends say. A straight forward challenge, a challenge quite simple.Or is it?"_**
 
+#### Pictures
+<img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Screenshot_1.png" alt="drawing" width="300"/>  <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Screenshot_4.png" alt="drawing" width="300"/> <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Untitled.png" alt="drawing" width="300"/> <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Screenshot_2.png" alt="drawing" width="300"/>
+
+#### Overview
 * SAMURUN is a 3D endless runner video-game. 
 * The player controls the character by changing his direction, left or right, and the challenge is about avoiding the obstacles, appearing randomly upon the bridge. 
 * The goal of the game is to achieve every time a greater score than the previous one, by surviving longer on the bridge without hitting an obstacle or falling of. 
 * The character moves automatically forward and gradually increases his speed, thus it becomes harder to avoid a collision. The greater the speed, the faster the score increases.  
 * All the assets of the game, including the soundtrack, embrace a japanese-culture-like concept.
 
-### Controls
+#### Controls
 The game controls consists of **left and right arrow keys** on keyboard for PC and **touching on left or right screen area** for smartphones. 
 
-### Note: 
+#### Note: 
 The game was built and tested only on Windows 10 and Android 7 devices. Game experience on Android is not completely smooth and requires further developement.**
 
 ## About the team
 
 TeamC Studios is not a real game developement studio, just a small collaboration of undergraduate students who enrolled the course "Game Design and Implementation".
+
+<img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/pinterest_board_photo.png" alt="drawing" width="200"/>
 
 TeamC Studios consists of 6 members, responsible for the development of the game:
 * Panagiotis Anastasiadis
@@ -37,7 +43,7 @@ TeamC Studios consists of 6 members, responsible for the development of the game
 * Christos Katsaros
 * Giannis Soumbasis
 
-### Please consider the following:
+#### Please consider the following:
 
  If there are any sights of bad practices or ambiguities regarding the file structure, code quality, the general development of the game or the entire repo management, please mind that this work is an attempt to build a video game for the first time and in the same time learning from the process. Also, consider the lack of expertise or experience that comes along during the time of undergraduate studies. 
 
