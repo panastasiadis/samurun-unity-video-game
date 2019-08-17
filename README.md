@@ -19,6 +19,12 @@ As a result, SAMURUN is the outcome of developing a game from scratch, embracing
 * The character moves automatically forward and gradually increases his speed, thus it becomes harder to avoid a collision. The greater the speed, the faster the score increases.  
 * All the assets of the game, including the soundtrack, embrace a japanese-culture-like concept.
 
+### Controls
+The game controls consists of **left and right arrow keys** on keyboard for PC and **touching on left or right screen area** for smartphones. 
+
+### Note: 
+The game was built and tested only on Windows 10 and Android 7 devices. Game experience on Android is not completely smooth and requires further developement.**
+
 ## About the team
 
 TeamC Studios is not a real game developement studio, just a small collaboration of undergraduate students who enrolled the course "Game Design and Implementation".
@@ -31,15 +37,15 @@ TeamC Studios consists of 6 members, responsible for the development of the game
 * Christos Katsaros
 * Giannis Soumbasis
 
-#### Please consider the following:
+### Please consider the following:
 
  If there are any sights of bad practices or ambiguities regarding the file structure, code quality, the general development of the game or the entire repo management, please mind that this work is an attempt to build a video game for the first time and in the same time learning from the process. Also, consider the lack of expertise or experience that comes along during the time of undergraduate studies. 
 
 **In any case, the project does not represent professional work, rather an avocation with video game developement.**
 
-## How to install
+## How to install the game on Windows 10
 
-The game was developed with Unity 2019 Editor, thus the same version of the engine is required to be installed on your computer.
+The game was developed with Unity 2019 Editor on Windows 10, thus the same version of the engine is required to be installed on your computer.
 * Clone the repo and open the downloaded folder with Unity 2019.
 * Select **File->Build Settings->Build and Run->Choose a destination folder of your choice.**
 * Go to the destination folder and run the game by double clicking the .exe file.
