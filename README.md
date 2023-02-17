@@ -2,12 +2,7 @@
  
 ## Repository overview
 
-This repo contains the source files of SAMURUN, a video-game developed with Unity 3D by TeamC Studios. This game was designed for the needs of the course "Game Design and Implementation". This course is a part of the undergraduate studies of University of Thessally - ECE Department located in Volos, Greece.
-
-Link to the Department's official site: https://www.e-ce.uth.gr/?lang=en
-
-The main purpose of the course is to provide basic understanding of both game design concepts and Unity Engine fundamentals.
-As a result, SAMURUN is the outcome of developing a game from scratch, embracing game design challenges and learning Unity 3D engine. 
+This repo contains the source files of SAMURUN, a video-game developed with Unity.
 
 ## About the game
 
@@ -28,26 +23,6 @@ The game controls consists of **left and right arrow keys** on keyboard for PC a
 
 #### Note: 
 The game was built and tested only on Windows 10 and Android 7 devices. Game experience on Android is not completely smooth and requires further developement.**
-
-## About the team
-
-TeamC Studios is not a real game developement studio, just a small collaboration of undergraduate students who enrolled the course "Game Design and Implementation".
-
-<img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/pinterest_board_photo.png" alt="drawing" width="200"/>
-
-TeamC Studios consists of 6 members, responsible for the development of the game:
-* Panagiotis Anastasiadis
-* George Kaparounakis
-* Michalis Zeakis
-* George Lalidis
-* Christos Katsaros
-* Giannis Soumbasis
-
-#### Please consider the following:
-
- If there are any sights of bad practices or ambiguities regarding the file structure, code quality, the general development of the game or the entire repo management, please mind that this work is an attempt to build a video game for the first time and in the same time learning from the process. Also, consider the lack of expertise or experience that comes along during the time of undergraduate studies. 
-
-**In any case, the project does not represent professional work, rather an avocation with video game developement.**
 
 ## How to install the game on Windows 10
 
