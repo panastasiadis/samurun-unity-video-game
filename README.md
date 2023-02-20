@@ -2,7 +2,7 @@
 
 This repository contains the source files for SAMURUN, an exciting video game developed with Unity. In this game, you play as a brave young man on a quest to earn the title of Samurai. Your final challenge is to cross the legendary Skybridge, a perilous path that few have seen with their own eyes and even fewer have returned to share their story.
 
-#### Pictures
+## Pictures
 <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Screenshot_1.png" alt="drawing" width="300"/>  <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Screenshot_4.png" alt="drawing" width="300"/> <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Untitled.png" alt="drawing" width="300"/> <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Screenshot_2.png" alt="drawing" width="300"/>
 
 ## Description
