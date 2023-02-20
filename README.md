@@ -1,33 +1,28 @@
 # SAMURUN, the video-game
- 
-## Repository overview
 
-This repo contains the source files of SAMURUN, a video-game developed with Unity.
-
-## About the game
-
-**_"A brave young man, in a quest to earn the title of Samurai, has to finish one final challenge. The skybridge SAMURUN, a bridge only a few have seen with their own eyes, and fewer returned to share the story. A bridge that no one truly knows its secrets, stands in front of him. He must run, avoid the obstacles and reach the end of the bridge before the sun goes down, as the legends say. A straight forward challenge, a challenge quite simple.Or is it?"_**
+This repository contains the source files for SAMURUN, an exciting video game developed with Unity. In this game, you play as a brave young man on a quest to earn the title of Samurai. Your final challenge is to cross the legendary Skybridge, a perilous path that few have seen with their own eyes and even fewer have returned to share their story.
 
 #### Pictures
 <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Screenshot_1.png" alt="drawing" width="300"/>  <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Screenshot_4.png" alt="drawing" width="300"/> <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Untitled.png" alt="drawing" width="300"/> <img src="https://github.com/paanastasiadis/ece-department-project-game-design/blob/master/extras/pictures/Screenshot_2.png" alt="drawing" width="300"/>
 
-#### Overview
-* SAMURUN is a 3D endless runner video-game. 
-* The player controls the character by changing his direction, left or right, and the challenge is about avoiding the obstacles, appearing randomly upon the bridge. 
-* The goal of the game is to achieve every time a greater score than the previous one, by surviving longer on the bridge without hitting an obstacle or falling of. 
-* The character moves automatically forward and gradually increases his speed, thus it becomes harder to avoid a collision. The greater the speed, the faster the score increases.  
-* All the assets of the game, including the soundtrack, embrace a japanese-culture-like concept.
+## Description
 
-#### Controls
-The game controls consists of **left and right arrow keys** on keyboard for PC and **touching on left or right screen area** for smartphones. 
+__"A brave young man is on a quest to earn the title of Samurai, and he must complete one final challenge: the Skybridge SAMURUN. Only a few have seen the bridge with their own eyes, and even fewer have returned to share their story. The secrets of the bridge remain unknown, but the young man must run, avoid obstacles, and reach the end of the bridge before the sun sets, as the legends say. It seems like a straightforward challenge, but is it really that simple?"__
 
-#### Note: 
-The game was built and tested only on Windows 10 and Android 7 devices. Game experience on Android is not completely smooth and requires further developement.**
+## Gameplay
 
-## How to install the game on Windows 10
+SAMURUN is a 3D endless runner game where you must avoid obstacles that randomly appear on the bridge. The goal of the game is to achieve a higher score than your previous attempt by surviving longer on the bridge without hitting an obstacle or falling off. As you progress, the character's speed increases, making it increasingly difficult to avoid a collision.
 
-The game was developed with Unity 2019 Editor on Windows 10, thus the same version of the engine is required to be installed on your computer.
-* Clone the repo and open the downloaded folder with Unity 2019.
-* Select **File->Build Settings->Build and Run->Choose a destination folder of your choice.**
-* Go to the destination folder and run the game by double clicking the .exe file.
-* Enjoy the game!
+The game's assets, including the soundtrack, have been designed to evoke Japanese culture, providing an immersive and engaging gaming experience.
+
+
+## Controls
+The controls for SAMURUN are simple, allowing you to focus on the challenge ahead. Use the left and right arrow keys on your keyboard to move your character or touch the left or right screen area on your smartphone.
+
+## Note
+Please be aware that the game was built and tested only on Windows 10 and Android 7 devices.
+
+## Installation
+To install the game on your Windows 10 PC, you'll need to have the Unity 2019 Editor installed on your computer. Once you have downloaded the repo, open the folder in Unity 2019, select "File -> Build Settings -> Build and Run", choose a destination folder of your choice, and run the game by double-clicking on the .exe file.
+
+Enjoy playing SAMURUN and we hope you have fun!
