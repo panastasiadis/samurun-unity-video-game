@@ -1,4 +1,4 @@
-# SAMURUN, the video-game
+# SAMURUN: The Endless Runner Video Game
 
 This repository contains the source files for SAMURUN, an exciting video game developed with Unity. In this game, you play as a brave young man on a quest to earn the title of Samurai. Your final challenge is to cross the legendary Skybridge, a perilous path that few have seen with their own eyes and even fewer have returned to share their story.
 
